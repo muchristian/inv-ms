@@ -1,0 +1,2 @@
+{"productId":1,"lastNight":78,"new":45,"now":67,"consumed":56,"amount":78400,"date":"2023-04-12","_id":2,"createdAt":{"$$date":1681293953128},"updatedAt":{"$$date":1681293976302}}
+{"productId":2,"lastNight":67,"new":12,"now":21,"consumed":58,"amount":87522,"date":"2023-04-12","_id":3,"createdAt":{"$$date":1681294399995},"updatedAt":{"$$date":1681294399995}}

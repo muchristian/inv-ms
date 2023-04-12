@@ -1,0 +1,2 @@
+{"name":"kitchen","_id":3,"createdAt":{"$$date":1681226413988},"updatedAt":{"$$date":1681226413988}}
+{"name":"drinks","_id":4,"createdAt":{"$$date":1681226439293},"updatedAt":{"$$date":1681226439293}}

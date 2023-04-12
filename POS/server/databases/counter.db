@@ -1,0 +1,4 @@
+{"id":"stock","seq":1,"_id":"1Qj6aPea20AKzuhC","createdAt":{"$$date":1681290299569},"updatedAt":{"$$date":1681290299569}}
+{"id":"hold","seq":3,"_id":"B3lVKRpRyA146qyw","createdAt":{"$$date":1681287456226},"updatedAt":{"$$date":1681293234014}}
+{"id":"category","seq":3,"_id":"H8oRXSZ6TO7ff5dv","createdAt":{"$$date":1681290326568},"updatedAt":{"$$date":1681294399993}}
+{"id":"expense","seq":2,"_id":"euFUQDxqoFZMuLFB","createdAt":{"$$date":1681294472224},"updatedAt":{"$$date":1681294485773}}
